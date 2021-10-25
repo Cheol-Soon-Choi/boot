@@ -27,7 +27,6 @@ dependencies {
     testImplementation('org.projectlombok:lombok')
     testAnnotationProcessor('org.projectlombok:lombok')
 
-    implementation 'junit:junit:4.13.1'
     implementation 'com.h2database:h2'
     implementation 'mysql:mysql-connector-java'
     implementation 'org.mariadb.jdbc:mariadb-java-client'
